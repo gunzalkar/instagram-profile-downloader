@@ -3,6 +3,7 @@ Python code to download  any Instagram profile with all posts
 Login only if the Instagram ID is private
 
 Step 1: Login
+
 Step 2: Download
 
 If you are using windows, Just download the exe. 
