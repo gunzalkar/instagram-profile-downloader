@@ -1,10 +1,4 @@
-from itertools import count
-from typing import Counter
-from cryptography.fernet import Fernet
 import base64
-from re import M
-from turtle import bgcolor, down
-from django.conf import settings
 import instaloader
 from instaloader import Profile, Post
 import tkinter as tk
@@ -12,7 +6,6 @@ from tkinter import ttk
 from tkinter import *
 from tkinter.ttk import *
 import time
-from PIL import Image, ImageTk
 import os
 import threading
 
